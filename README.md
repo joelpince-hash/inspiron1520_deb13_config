@@ -18,3 +18,5 @@ Chargez la configuration avec make oldconfig
 Modifiez votre configuration avec make menuconfig si nécessaire
 Lancez la configuration avec 3.	make -j2 bindeb-pkg
 Installez et redémarrez !
+
+Nota : le config.h concerne dwm. Si vous envisagez un autre bureau, il ne vous servira à rien. Je conseille XFCE pour X11.

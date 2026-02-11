@@ -17,8 +17,8 @@ Idéal pour les étudiants ou les petits budgets cherchant une machine rapide et
 
 | Modèle | Statut | Noyau (Kernel) | Particularités |
 | :--- | :--- | :--- | :--- |
-| **Dell Inspiron 1520** | ✅ Disponible | 6.1.x (LTS) | Core 2 Duo, Optimisé pour bureautique/web |
-| **Dell Latitude 7480** | 🚧 En cours | 6.1.x (LTS) | Ultrabook pro, Optimisé autonomie |
+| **Dell Inspiron 1520** | ✅ Disponible | 6.18.9 | Core 2 Duo, Optimisé pour bureautique/web |
+| **Dell Latitude 7480** | ✅ Disponible | 6.19.0 | Ultrabook pro, Optimisé autonomie |
 
 *D'autres modèles seront ajoutés au fur et à mesure des rénovations.*
 

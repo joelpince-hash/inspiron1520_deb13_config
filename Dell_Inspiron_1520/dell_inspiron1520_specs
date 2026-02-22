@@ -1,4 +1,4 @@
-joel@joel-Inspiron-1520:~$ lspci
+joel@joel-Inspiron-1520:/media/joel/SD_CARD/src/github/refurbished-laptops-kernels$ lspci
 00:00.0 Host bridge: Intel Corporation Mobile PM965/GM965/GL960 Memory Controller Hub (rev 0c)
 00:01.0 PCI bridge: Intel Corporation Mobile PM965/GM965/GL960 PCI Express Root Port (rev 0c)
 00:1a.0 USB controller: Intel Corporation 82801H (ICH8 Family) USB UHCI Controller #4 (rev 02)
@@ -24,7 +24,7 @@ joel@joel-Inspiron-1520:~$ lspci
 03:01.2 System peripheral: Ricoh Co Ltd R5C592 Memory Stick Bus Host Adapter (rev 12)
 03:01.3 System peripheral: Ricoh Co Ltd xD-Picture Card Controller (rev 12)
 0c:00.0 Network controller: Intel Corporation PRO/Wireless 4965 AG or AGN [Kedron] Network Connection (rev 61)
-joel@joel-Inspiron-1520:~$ lscpu
+joel@joel-Inspiron-1520:/media/joel/SD_CARD/src/github/refurbished-laptops-kernels$ lscpu
 Architecture :                              x86_64
   Mode(s) opératoire(s) des processeurs :   32-bit, 64-bit
   Tailles des adresses:                     36 bits physical, 48 bits virtual
@@ -41,10 +41,10 @@ Identifiant constructeur :                  GenuineIntel
     Socket(s) :                             1
     Révision :                              6
     Accroissement de fréquence :            activé
-    multiplication des MHz du/des CPU(s) :  100%
+    multiplication des MHz du/des CPU(s) :  92%
     Vitesse maximale du processeur en MHz : 2501,0000
     Vitesse minimale du processeur en MHz : 800,0000
-    BogoMIPS :                              4987,36
+    BogoMIPS :                              4987,17
     Drapeaux :                              fpu vme de pse tsc msr pae mce cx8 a
                                             pic sep mtrr pge mca cmov pat pse36 
                                             clflush dts acpi mmx fxsr sse sse2 h
@@ -84,9 +84,9 @@ Vulnérabilités :
   Tsa :                                     Not affected
   Tsx async abort :                         Not affected
   Vmscape :                                 Not affected
-joel@joel-Inspiron-1520:~$ lsusb
-Bus 001 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
-Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+joel@joel-Inspiron-1520:/media/joel/SD_CARD/src/github/refurbished-laptops-kernels$ lsusb
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 002 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
 Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 Bus 003 Device 002: ID 05a9:2640 OmniVision Technologies, Inc. OV2640 Webcam
 Bus 004 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub

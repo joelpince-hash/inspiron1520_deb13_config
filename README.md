@@ -1,15 +1,15 @@
-# 🐧 Configurations Noyau Linux Optimisées (Refurbished Laptops)
+# 🐧 Configurations du noyau Linux Optimisées (Refurbished Laptops)
 
-Ce dépôt héberge les fichiers de configuration (`.config`) du noyau Linux (Kernel), optimisés spécifiquement pour des ordinateurs portables professionnels d'ancienne génération reconditionnés.
+Ce dépôt héberge les fichiers de configuration (`.config`) du noyau Linux (Kernel), optimisés spécifiquement pour des ordinateurs portables professionnels d'ancienne génération reconditionnés. L'objectif est d'obtenir un kernel léger, tout en assurant la compatibilité avec le matériel usuel (clavier et souris externes, etc).'
 
 ## 🎯 L'Objectif
 L'idée est de prolonger la durée de vie de matériel informatique de qualité (Dell Latitude, Inspiron, ThinkPad...) qui ne supporte plus Windows 11.
-Ces configurations sont destinées à **Debian Stable**. Elles visent à produire un système :
+Ces configurations sont destinées à **Debian Stable** mais sont utilisable sur toutes les distributions debian-compatibles. Elles visent à produire un système :
 * **Ultra-léger :** Suppression des pilotes inutiles et du "bloatware" du noyau générique.
 * **Performant :** Optimisation spécifique au processeur (CPU) et au matériel de chaque machine.
-* **Stable :** Basé sur la dernière version stable du noyau (Trixie).
+* **Stable :** Basé sur la dernière version stable du noyau.
 
-Idéal pour les étudiants ou les petits budgets cherchant une machine rapide et fiable pour travailler.
+Idéal pour les étudiants ou les petits budgets cherchant une machine rapide et fiable pour travailler, ces vieux PC étant obsolètes pour Windows mais encore largement utilisables avec Linux !
 
 ---
 
